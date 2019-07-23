@@ -3,7 +3,7 @@ This is a shooting game.
 
 There are a little change of the original source code using a mingw32 gcc with a code::blocks .
 
-check the origianl tutorial site.[site](https://www.parallelrealities.co.uk/tutorials/#shooter)
+check the origianl tutorial [site](https://www.parallelrealities.co.uk/tutorials/#shooter)
 
 Here are some screen shots for the game.
 
@@ -17,7 +17,7 @@ no image
 
 ## Part 3: Moving the player
 
-![Moving the player](screenshots/chap03.png) 
+![Moving the player](screenshots/chap03.png=250x250) 
 
 ## Part 4: Firing a bullet
 
