@@ -13,7 +13,7 @@ no image
 
 ## Part 2: Drawing the player
 
-![Drawing the player](<img width="400" height="300">screenshots/chap02.png</img>) 
+<img width="400" height="300">![Drawing the player](screenshots/chap02.png) </img>
 
 ## Part 3: Moving the player
 
