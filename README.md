@@ -12,22 +12,24 @@ Here are some screen shots for the game.
 no image
 
 ## Part 2: Drawing the player
-
-<img width="400" height="300">![Drawing the player](screenshots/chap02.png) </img>
+<!---![Drawing the player](screenshots/chap02.png)---> 
+<img src="screenshots/chap02.png" dalt="Drawing the player" width="400" height="300" />
 
 ## Part 3: Moving the player
 
-![Moving the player](screenshots/chap03.png) 
-<img src="screenshots/chap03.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<!---![Moving the player](screenshots/chap03.png)---> 
+<img src="screenshots/chap03.png" dalt="Moving the player" width="400" height="300" />
 
 ## Part 4: Firing a bullet
-
-![Firing a bullet](screenshots/chap04.png) 
+<!---![Firing a bullet](screenshots/chap04.png) ---> 
+<img src="screenshots/chap04.png" dalt="Firing a bullet" width="400" height="300" />
 
 ## Part 5: Refactoring
+<!---![Refactoring](screenshots/chap05.png) ---> 
+<img src="screenshots/chap05.png" dalt="Refactoring" width="400" height="300" />
 
-![Refactoring](screenshots/chap05.png) 
 
 ## Part 6: Enemies
+<!---![Enemies](screenshots/chap06.png) ---> 
+<img src="screenshots/chap06.png" dalt="Enemies" width="400" height="300" />
 
-![Enemies](screenshots/chap06.png) 
