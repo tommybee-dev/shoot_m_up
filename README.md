@@ -33,3 +33,6 @@ no image
 <!---![Enemies](screenshots/chap06.png) ---> 
 <img src="screenshots/chap06.png" dalt="Enemies" width="400" height="300" />
 
+## Part 7: Shooting enemies
+<!---![Enemies](screenshots/chap06.png) ---> 
+<img src="screenshots/chap07.png" dalt="Enemies" width="400" height="300" />
