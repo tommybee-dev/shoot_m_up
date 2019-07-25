@@ -8,7 +8,7 @@
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/shoot_tm_up" prefix_auto="1" extension_auto="1" />
-				<Option working_dir="chap05" />
+				<Option working_dir="chap06" />
 				<Option object_output="obj/Debug/" />
 				<Option type="0" />
 				<Option compiler="gcc" />
@@ -46,29 +46,29 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="chap05/common.h" />
-		<Unit filename="chap05/defs.h" />
-		<Unit filename="chap05/draw.c">
+		<Unit filename="chap06/common.h" />
+		<Unit filename="chap06/defs.h" />
+		<Unit filename="chap06/draw.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap05/draw.h" />
-		<Unit filename="chap05/init.c">
+		<Unit filename="chap06/draw.h" />
+		<Unit filename="chap06/init.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap05/init.h" />
-		<Unit filename="chap05/input.c">
+		<Unit filename="chap06/init.h" />
+		<Unit filename="chap06/input.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap05/input.h" />
-		<Unit filename="chap05/main.c">
+		<Unit filename="chap06/input.h" />
+		<Unit filename="chap06/main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap05/main.h" />
-		<Unit filename="chap05/stage.c">
+		<Unit filename="chap06/main.h" />
+		<Unit filename="chap06/stage.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap05/stage.h" />
-		<Unit filename="chap05/structs.h" />
+		<Unit filename="chap06/stage.h" />
+		<Unit filename="chap06/structs.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
