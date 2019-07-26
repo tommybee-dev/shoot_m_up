@@ -40,3 +40,7 @@ no image
 ## Part 8: Enemies fighting back!
 <!---![Enemies](screenshots/chap06.png) ---> 
 <img src="screenshots/chap08.png" dalt="Enemies" width="400" height="300" />
+
+## ?Part 9: Effects and background graphics
+<!---![Enemies](screenshots/chap06.png) ---> 
+<img src="screenshots/chap09.png" dalt="Enemies" width="400" height="300" />
