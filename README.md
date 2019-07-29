@@ -51,4 +51,4 @@ no image
 
 ## Part 11: Bitmap font rendering
 <!---![Enemies](screenshots/chap06.png) ---> 
-<img src="screenshots/chap09.png" dalt="Enemies" width="400" height="300" />
+<img src="screenshots/chap11.png" dalt="Enemies" width="400" height="300" />
