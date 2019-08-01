@@ -8,7 +8,7 @@
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/shoot_tm_up" prefix_auto="1" extension_auto="1" />
-				<Option working_dir="chap11" />
+				<Option working_dir="chap12" />
 				<Option object_output="obj/Debug/" />
 				<Option type="0" />
 				<Option compiler="gcc" />
@@ -46,41 +46,41 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="chap11/common.h" />
-		<Unit filename="chap11/defs.h" />
-		<Unit filename="chap11/draw.c">
+		<Unit filename="chap12/common.h" />
+		<Unit filename="chap12/defs.h" />
+		<Unit filename="chap12/draw.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/draw.h" />
-		<Unit filename="chap11/init.c">
+		<Unit filename="chap12/draw.h" />
+		<Unit filename="chap12/init.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/init.h" />
-		<Unit filename="chap11/input.c">
+		<Unit filename="chap12/init.h" />
+		<Unit filename="chap12/input.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/input.h" />
-		<Unit filename="chap11/main.c">
+		<Unit filename="chap12/input.h" />
+		<Unit filename="chap12/main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/main.h" />
-		<Unit filename="chap11/sound.c">
+		<Unit filename="chap12/main.h" />
+		<Unit filename="chap12/sound.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/sound.h" />
-		<Unit filename="chap11/stage.c">
+		<Unit filename="chap12/sound.h" />
+		<Unit filename="chap12/stage.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/stage.h" />
-		<Unit filename="chap11/structs.h" />
-		<Unit filename="chap11/text.c">
+		<Unit filename="chap12/stage.h" />
+		<Unit filename="chap12/structs.h" />
+		<Unit filename="chap12/text.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/text.h" />
-		<Unit filename="chap11/util.c">
+		<Unit filename="chap12/text.h" />
+		<Unit filename="chap12/util.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="chap11/util.h" />
+		<Unit filename="chap12/util.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

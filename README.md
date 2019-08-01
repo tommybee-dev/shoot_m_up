@@ -56,3 +56,7 @@ no image
 ## Part 12: ﻿Points Pods
 <!---![Enemies](screenshots/chap06.png) ---> 
 <img src="screenshots/chap12.png" dalt="Enemies" width="400" height="300" />
+
+## Part 13: ﻿Highscore table (Part 1)
+<!---![Enemies](screenshots/chap06.png) ---> 
+<img src="screenshots/chap13.png" dalt="Enemies" width="400" height="300" />
