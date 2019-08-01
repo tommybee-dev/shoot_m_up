@@ -9,7 +9,8 @@ Here are some screen shots for the game.
 
 ## Part 1: Opening a window 
 no image
-[My blog in korean translation]N/A <br>
+[My blog in korean translation](https://blog.naver.com/tommybee/221584372479)
+
 [Author blog](https://www.parallelrealities.co.uk/tutorials/shooter/shooter1.php)
 
 ## Part 2: Drawing the player
