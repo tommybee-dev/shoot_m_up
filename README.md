@@ -9,19 +9,19 @@ Here are some screen shots for the game.
 
 ## Part 1: Opening a window 
 no image
-[My blog in korean translation]
+[My blog in korean translation]N/A <br>
 [Author blog](https://www.parallelrealities.co.uk/tutorials/shooter/shooter1.php)
 
 ## Part 2: Drawing the player
 <!---![Drawing the player](screenshots/chap02.png)---> 
 <img src="screenshots/chap02.png" dalt="Drawing the player" width="400" height="300" />
-[My blog in korean translation](https://blog.naver.com/tommybee/221585560010)
+[My blog in korean translation](https://blog.naver.com/tommybee/221585560010) <br>
 [Author blog](https://www.parallelrealities.co.uk/tutorials/shooter/shooter2.php)
 
 ## Part 3: Moving the player
 <!---![Moving the player](screenshots/chap03.png)---> 
 <img src="screenshots/chap03.png" dalt="Moving the player" width="400" height="300" />
-[My blog in korean translation](https://blog.naver.com/tommybee/221585590488)
+[My blog in korean translation](https://blog.naver.com/tommybee/221585590488) <br>
 [Author blog](https://www.parallelrealities.co.uk/tutorials/shooter/shooter3.php)
 
 ## Part 4: Firing a bullet
