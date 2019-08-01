@@ -60,3 +60,7 @@ no image
 ## Part 13: ﻿Highscore table (Part 1)
 <!---![Enemies](screenshots/chap06.png) ---> 
 <img src="screenshots/chap13.png" dalt="Enemies" width="400" height="300" />
+
+## Part 14: ﻿Highscore table (Part 2)
+<!---![Enemies](screenshots/chap06.png) ---> 
+<img src="screenshots/chap14.png" dalt="Enemies" width="400" height="300" />
